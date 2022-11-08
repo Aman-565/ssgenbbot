@@ -32,7 +32,7 @@ API_HASH = '40bd8634b3836468bb2fb7eafe39d81a'
 app = Client("SsGeneratorBot",
              api_id=API_ID,
              api_hash=API_HASH,
-             bot_token='5410695806:AAHlEDZ4Kb0T3HrwSIrIQGM_-hFCEiP56SE'
+             bot_token='5410695806:AAFQwVgTHrsoGDvkoC2-5SHeo1m5UCxqYcs'
              )
 
 
