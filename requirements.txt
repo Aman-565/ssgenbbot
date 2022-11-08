@@ -1,2 +1,5 @@
-pyrogram
+asyncio
+pyromod
+telethon
 tgcrypto
+pyrogram
